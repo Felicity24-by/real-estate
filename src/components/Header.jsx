@@ -30,11 +30,11 @@ export default function Header() {
            <Link to='/'>
                 <li className='font-bold hidden sm:inline text-slate-700 hover:underline'>Home</li>
             </Link>
-            <Link to='/about'>
-                <li className='font-bold hidden sm:inline text-slate-700 hover:underline'>About</li>
+            <Link to='/buy'>
+                <li className='font-bold hidden sm:inline text-slate-700 hover:underline'>Buy</li>
             </Link>
-            <Link to='/profile'>
-                <li className='font-bold hidden sm:inline text-slate-700 hover:underline'>Profile</li>
+            <Link to='/rent'>
+                <li className='font-bold hidden sm:inline text-slate-700 hover:underline'>Rent</li>
             </Link>
             <Link to='/sign-in'>    
                 <li className='font-bold hidden sm:inline text-slate-700 hover:underline'>Sign In</li>
