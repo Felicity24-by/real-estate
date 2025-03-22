@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "components";
+
 
 body{
     background-color: rgb(red, green, blue);
